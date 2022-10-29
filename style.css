@@ -1,0 +1,85 @@
+h1{
+    color: rgb(253, 244, 244);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a{
+    color: blue;
+}
+
+body{
+    background: url(eiffel-tower-g689c0b23e_1920.jpg) center;
+    height: 50px;
+}
+
+#boss{
+color: blue;
+}
+
+#work{
+color: rgb(13, 13, 255);
+}
+
+p{
+color: rgb(5, 12, 12) ;
+}
+
+#rise{
+    box-shadow: 8px 8px 5px ;
+    float: right;
+    position:absolute;
+    top:200px;
+    left: 1100px;
+    width: 16%;
+    height: 36%;
+}
+
+#hope{
+   height: 130px;
+}
+
+#BLANC{
+    color: rgb(10, 1, 10);
+}
+
+#mind{
+   height: 200px; 
+}
+
+#ord{
+    box-shadow: 8px 8px 5px ;
+    float: right;
+    position:absolute;
+    top:200px;
+    left: 940px;
+    width: 30%;
+    height: 36%;
+}
+
+#red{
+    color: rgb(228, 8, 8);
+}
+
+#fmc{
+    box-shadow: 8px 8px 5px ;
+    float: right;
+    position:absolute;
+    top:140px;
+    left: 940px;
+    width: 30%;
+    height: 45%; 
+}
+
+#taille{
+    width: 10%;
+    height:15% ;
+}
+
+#Green{
+    color: rgb(43, 212, 9);
+}
+
+#bal{
+    color: rgb(248, 246, 253);
+}
